@@ -1,12 +1,11 @@
 
 # CodeSignal / CodaPad Solutions
 
-Welcome to my GitHub repository containing my solutions to various coding tasks and challenges on the CodeSignal/CodaPad online test platform. This repository showcases my problem-solving skills and dedication to continuous learning.
+Welcome to my GitHub repository containing my solutions to various coding tasks and challenges on the CodeSignal/CodaPad online test platform. 
 
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Structure](#structure)
 - [Solutions](#solutions)
 - [How to Use](#how-to-use)
 - [License](#license)
